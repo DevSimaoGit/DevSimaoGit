@@ -4,12 +4,12 @@
 ##
 
 <div style="display: inline_block"><br/>
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-<img height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"> 
-<img height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
-<img height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<img height="55" width="55" src="https://img.icons8.com/?size=100&id=101665&format=png&color=006394">
+<img height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+<img height="50" widht="50" src="https://devicon-website.vercel.app/api/ubuntu/plain-wordmark.svg">
+<img height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg">
+<img height="50" widht="50" src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg">
+<img height="45" widht="45" src="https://devicon-website.vercel.app/api/opensuse/original-wordmark.svg">
 </div>
 
   ##
