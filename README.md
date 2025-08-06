@@ -20,7 +20,7 @@
 
 ##
 
-
-
-
- 
+<div align="center">
+  <href="https://open.spotify.com/user/xv23z76td52watuyp7corh0ol?si=J4lOJYUyQNWf-ixBsErWDQ">
+    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White-300x82.png"/>
+  </a>
