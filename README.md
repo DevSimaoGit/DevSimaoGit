@@ -13,11 +13,10 @@
 </div>
 
   ##
-  
-[![Instagram](https://cdn.brandfetch.io/ido5G85nya/w/40/h/40/theme/light/symbol.png?c=1bxid64Mup7aczewSAYMX&t=1724650641154)](https://bit.ly/m_simao1)
-[![Instagram](https://cdn.brandfetch.io/ido5G85nya/w/100/h/75/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1724650640933)](https://bit.ly/m_simao1)
-[![Youtube](https://cdn.brandfetch.io/idVfYwcuQz/w/100/h/75/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1728452987912)](https://youtube.com/@simao_mateus?si=QAjAU5-Oxzv1McBM)
-[![Linkedin](https://cdn.brandfetch.io/idJFz6sAsl/w/100/h/75/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740371012427)](https://www.linkedin.com/in/mateus-sim%C3%A3o-7ab91531a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9DBg%2FvdJRLq7B4RUWPapFQ%3D%3D)
+
+[![Instagram](https://img.icons8.com/?size=100&id=TSZw5VixabhS&format=png&color=000000)](https://bit.ly/m_simao1)
+[![Youtube](https://img.icons8.com/?size=100&id=115371&format=png&color=000000)](https://youtube.com/@simao_mateus?si=QAjAU5-Oxzv1McBM)
+[![Linkedin](https://img.icons8.com/?size=100&id=64154&format=png&color=000000)](https://www.linkedin.com/in/mateus-sim%C3%A3o-7ab91531a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9DBg%2FvdJRLq7B4RUWPapFQ%3D%3D)
 
 ##
 
