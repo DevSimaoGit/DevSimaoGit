@@ -13,14 +13,17 @@
 </div>
 
   ##
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/m_simao1)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@simao_mateus?si=QAjAU5-Oxzv1McBM)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-sim%C3%A3o-7ab91531a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9DBg%2FvdJRLq7B4RUWPapFQ%3D%3D)
+  
+[![Instagram](https://cdn.brandfetch.io/ido5G85nya/w/40/h/40/theme/light/symbol.png?c=1bxid64Mup7aczewSAYMX&t=1724650641154)](https://bit.ly/m_simao1)
+[![Instagram](https://cdn.brandfetch.io/ido5G85nya/w/100/h/75/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1724650640933)](https://bit.ly/m_simao1)
+[![Youtube](https://cdn.brandfetch.io/idVfYwcuQz/w/100/h/75/theme/light/logo.png?c=1bxid64Mup7aczewSAYMX&t=1728452987912)](https://youtube.com/@simao_mateus?si=QAjAU5-Oxzv1McBM)
+[![Linkedin](https://cdn.brandfetch.io/idJFz6sAsl/w/100/h/75/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740371012427)](https://www.linkedin.com/in/mateus-sim%C3%A3o-7ab91531a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9DBg%2FvdJRLq7B4RUWPapFQ%3D%3D)
 
 ##
 
 <div align="center">
-  <href="https://open.spotify.com/user/xv23z76td52watuyp7corh0ol?si=J4lOJYUyQNWf-ixBsErWDQ">
-    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White-300x82.png"/>
+  <a href="https://open.spotify.com/user/xv23z76td52watuyp7corh0ol?si=J4lOJYUyQNWf-ixBsErWDQ">
+    <img src="https://cdn.brandfetch.io/id20mQyGeY/w/400/h/200/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1737597212576" />
   </a>
+  
+</div>
