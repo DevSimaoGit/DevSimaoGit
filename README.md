@@ -6,8 +6,8 @@
 </p>
 
 
+<img align="right" alt="Coding" width="250" src="https://hackersec.com/wp-content/uploads/2022/09/hackersec-logo-loading-min.png">
 
-<img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
 - 👨‍💻 Trabalho com códigos de segurança.
 - 📖 Focado em aprender e melhorar.
