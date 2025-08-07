@@ -26,6 +26,6 @@
 
  <a href="mailto:simaomateus69@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/teussimnao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-sim%C3%A3o-7ab91531a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKTRGi7oAS0mJkVHbLRslRA%3D%3D) 
-<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
+<a href="https://t.me/teussimao" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
 <a href="https://wa.me/+5511917573194/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white">
 </div>
