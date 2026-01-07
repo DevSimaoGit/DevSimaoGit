@@ -37,8 +37,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSimaoGit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSimaoGit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSimaoGit&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSimaoGit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSimaoGit&theme=github_dark)
+
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=DevSimaoGit&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
