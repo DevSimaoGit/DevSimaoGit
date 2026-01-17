@@ -18,7 +18,7 @@
 
 <div align="start">
 
- ![](https://komarev.com/ghpvc/?username=DevSimaoGit&style=flat&color=brightgreen)
+ ![](https://komarev.com/ghpvc/?username=CyberTeusGit&style=flat&color=brightgreen)
 
  </div>
 
@@ -34,15 +34,15 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSimaoGit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSimaoGit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSimaoGit&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberTeusGit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberTeusGit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberTeusGit&theme=github_dark&utcOffset=8)
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=DevSimaoGit&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=CyberTeusGit&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSimaoGit&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/DevSimaoGit/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberTeusGit&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/CyberTeusGit/github-readme-activity-graph)
 
 </div>
 
@@ -51,7 +51,7 @@
 
 
 <p align="left">
-<a href="https://github.com/DevSimaoGit?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/CyberTeusGit?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   
 <span style="color:#40c463; font-family: Roboto, sans-serif;"><b>Note: </b>My public work doesn’t fully reflect my experience or skill level. I share it to document what I’ve learned and to help others with useful resources. 
 My true work is in private repos.</span>  
