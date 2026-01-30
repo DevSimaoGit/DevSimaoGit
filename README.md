@@ -6,7 +6,10 @@
 </p>
 
 
-<img align="right" alt="Coding" width="200" src="https://commons.wikimedia.org/wiki/File:Icon_hacker.png">
+<img src="https://github.com/user-attachments/assets/f6ce93f1-c4a1-4d8b-bff3-548ee53a0f2d"
+     width="200"
+     align="right">
+
 
 
 - 👨‍💻 Trabalho com códigos de segurança.
