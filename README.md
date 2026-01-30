@@ -40,6 +40,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=secteusgit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=secteusgit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=secteusgit&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=secteusgit&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=secteusgit&theme=github_dark)
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=secteusgit&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
