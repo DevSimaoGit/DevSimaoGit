@@ -6,7 +6,7 @@
 </p>
 
 
-<img align="right" alt="Coding" width="200" src="https://hackersec.com/wp-content/uploads/2022/09/hackersec-logo-loading-min.png">
+<img align="right" alt="Coding" width="200" src="https://commons.wikimedia.org/wiki/File:Icon_hacker.png">
 
 
 - 👨‍💻 Trabalho com códigos de segurança.
